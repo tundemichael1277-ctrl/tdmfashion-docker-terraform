@@ -1,0 +1,8 @@
+nano .gitignore
+
+.terraform/
+*.tfstate
+*.tfstate.*
+crash.log
+crash.*.log
+terraform.tfvars
